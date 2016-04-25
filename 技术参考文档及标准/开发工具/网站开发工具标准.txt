@@ -1,0 +1,4 @@
+1.成员统一使用eclipse-javaee-mars-s1及以上版本进行开发
+2.使用tomcat8进行部署
+3.jdk统一使用8以上版本
+4.前端开发建议使用webstorm/hbuilder
